@@ -1,4 +1,4 @@
-#inclide<stdio.h>
+#include<stdio.h>
 //1st repository
 
 int main()
