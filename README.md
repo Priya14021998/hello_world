@@ -1,2 +1,7 @@
-# hello_world
-1st repository
+#inclide<stdio.h>
+//1st repository
+
+int main()
+{
+printf("hello_world\n");
+}
